@@ -1,1 +1,29 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width img{
+    width: 70%;
+}
+.half-width{
+    width: 50%;
+}
+.recepie img{
+    width: 300px;
+    height: 300px;
+
+}
+.container{
+    display: flex;
     
+
+    
+}
