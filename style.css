@@ -41,9 +41,26 @@ p{
     margin-top: 150px;
     margin-left: 50px;
     padding: 5px;
+    margin-bottom: 30px;
 }
-#title-image{
-    width: 80%;
+.title-image{
+    width: 90%;
+    margin-top: 50px;
+}
+.btn{
+    margin-top: 40px;
+    text-decoration: none;
+    padding: 10px 30px;
+    border: 1px solid orange;
+    border-radius: 15px;
+    color: #fff;
+    background-image: linear-gradient(orange, tomato);
+}
+.btn:hover{
+    background: transparent;
+    border-color: orange;
+    color: orange;
+    
 }
 .about{
     background-image: url(image/7.png);
@@ -90,8 +107,8 @@ p{
 }
 .flower{
     display: flex;
-    margin-left:40px;
-    margin-left: 50px;
+    margin-left:105px;
+    margin-right: 105px;
     margin-top: 120px;
     padding: 20px 0;
     border: 1px solid transparent;
@@ -102,7 +119,7 @@ p{
 
 .flower-items{
     margin-left: 120px;
-    margin-right: 100px;
+    margin-right: 80px;
     text-align: center;
     border: 1px solid transparent;
     
