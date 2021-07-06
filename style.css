@@ -144,10 +144,15 @@ p{
 }
 .recepie img{
     width: 300px;
-    height: 200px;
-    padding: 10px 0px 25px;
-    margin-left: 8px;
+    height: 230px;
+    padding: 10px 0px 5px;
+    margin-left: 2px;
+    
 }
+.recepie h3, p{
+    margin: 20px 0px;
+}
+
 .container{
     display: flex;
     margin-left: 50px;
