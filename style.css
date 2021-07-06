@@ -7,13 +7,13 @@ body{
     margin: 0;
     padding: 0;
     list-style: none;
+    box-sizing: border-box;
 }
 nav{
     background:mediumblue;
     height: 80px;
     width: 100%;
     margin-bottom: 60px;
-    box-sizing: border-box;
 }
 label.logo{
     color: white;
