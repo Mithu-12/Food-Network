@@ -29,7 +29,7 @@ p{
 
 .flexible-container{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 .half-width{
     width: 50%;
@@ -41,22 +41,24 @@ p{
     margin-top: 150px;
     margin-left: 50px;
     padding: 5px;
-    margin-bottom: 30px;
 }
 .title-image{
     width: 90%;
     margin-top: 50px;
 }
-.btn{
-    margin-top: 40px;
+.content-item{
+    margin-bottom: 45px;
+}
+#btn{
+    margin-right: 40px;
     text-decoration: none;
-    padding: 10px 30px;
+    padding: 12px 30px;
     border: 1px solid orange;
-    border-radius: 15px;
+    border-radius: 20px;
     color: #fff;
     background-image: linear-gradient(orange, tomato);
 }
-.btn:hover{
+#btn:hover{
     background: transparent;
     border-color: orange;
     color: orange;
@@ -75,6 +77,9 @@ p{
     margin: 160px 30px 0px 150px;
     width: 40%
     
+}
+.about-item{
+    margin-bottom: 45px;
 }
 .my-racepie{
     margin-top: 80px;
